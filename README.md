@@ -6,7 +6,7 @@
 ---
 
 ### 🛠 Tech Stack & Skills  
-- 💻 **Languages**: Java, Python  
+- 💻 **Languages**: Java, JavaScript
 - 🏗 **Test Automation**: Selenium, TestNG, Rest-Assured  
 - 🌐 **API Testing**: RESTful APIs, Postman, Swagger  
 - 🛠 **DevOps & CI/CD**: Git, Jenkins  
@@ -36,7 +36,7 @@ I treat **bugs** like veggies—I pick the bad ones out before they reach the pl
 ### 📫 Let's Connect!  
 📧 **Email**: ganeshkillare11@gmail.com 
 🔗 **LinkedIn**: https://www.linkedin.com/in/ganesh-killare/  
-📂 **GitHub**: 
+📂 **GitHub**: https://github.com/Ganesh-killare
 
 ---
 
