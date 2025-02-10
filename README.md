@@ -6,7 +6,7 @@
 ---
 
 ### 🛠 Tech Stack & Skills  
-- 💻 **Languages**: Java, JavaScript
+- 💻 **Languages**: Java, Typescript
 - 🏗 **Test Automation**: Selenium, TestNG, Rest-Assured  
 - 🌐 **API Testing**: RESTful APIs, Postman, Swagger  
 - 🛠 **DevOps & CI/CD**: Git, Jenkins  
@@ -24,7 +24,7 @@
 ### 🌱 Currently Exploring  
 📌 Advanced API Automation with Rest-Assured  
 📌 Performance Testing Strategies  
-📌 Python for Test Automation  
+📌 Typescript for Test Automation  
 
 ---
 
